@@ -18,5 +18,5 @@ async def add(ctx, left: int, right: int):
 @bot.command()
 async def heh(ctx, count_heh = 5):
     await ctx.send("he" * count_heh)
-bot.run("MTMyNjMzNzUxMDY0NDkxMjIwOA.GWhnpW.q9qNIloqRHVnWu2UxCbbGwnbJDzgD4zEsdshGk")
+bot.run("")
 
